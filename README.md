@@ -1,2 +1,2 @@
-# test-json-converter-frontend
-Frontend testing project for JSON to Archive converter
+# Test Project
+This is a test project created by the converter.
